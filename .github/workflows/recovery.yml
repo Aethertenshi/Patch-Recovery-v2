@@ -6,7 +6,7 @@ on:
       RECOVERY_URL:
         description: 'RECOVERY URL'
         required: true
-        default: 'https://transfer.sh/(RECOMMENDED)'
+        default: 'https://github.com/Aethertenshi/transfer.sh/releases/download/release11234/recovery.img'
 
 env:
   RECOVERY_URL: https://github.com/Aethertenshi/transfer.sh/releases/download/release11234/recovery.img
